@@ -46,11 +46,12 @@ weather-app/
 ├── README.md          # This readme file
 └── assets/            # Directory for images or other assets (if any)
 Screenshots
-   
 screenshot : <img width="956" alt="output5" src="https://github.com/user-attachments/assets/c756ac1b-1098-4250-9adc-776c06a3b30d">
 
+
+
 *Link Of The Project
-link: 
+link: https://github.com/22FE1A6146/PRODIGY_WD_05
 
 Acknowledgments
 OpenWeatherMap for the weather API.
